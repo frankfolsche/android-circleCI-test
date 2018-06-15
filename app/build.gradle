@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "nl.steef.circleci_test"
+        applicationId "nl.frank.circleci_test"
         minSdkVersion 26
         targetSdkVersion 26
         versionCode 1
