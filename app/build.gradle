@@ -9,7 +9,7 @@ android {
         applicationId "nl.frank.circleci_test"
         minSdkVersion 26
         targetSdkVersion 26
-        versionCode 10
+        versionCode 11
         versionName "1.0"
 
 
